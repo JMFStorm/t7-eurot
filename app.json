@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "t7-eurot",
-    "slug": "t7-eurot",
+    "name": "t7-eurot-Janne-F",
+    "slug": "t7-eurot-janne-f",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
